@@ -1,0 +1,5 @@
+/Users/oliviaforte/MI 482/mi-482-proj2-group-4/MI 482 Project 2/.utmp/RelWithDebInfo/3w6l5264/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/oliviaforte/MI 482/mi-482-proj2-group-4/MI 482 Project 2/.utmp/RelWithDebInfo/3w6l5264/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/oliviaforte/MI 482/mi-482-proj2-group-4/MI 482 Project 2/.utmp/RelWithDebInfo/3w6l5264/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/oliviaforte/MI 482/mi-482-proj2-group-4/MI 482 Project 2/.utmp/RelWithDebInfo/3w6l5264/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/oliviaforte/MI 482/mi-482-proj2-group-4/MI 482 Project 2/.utmp/RelWithDebInfo/3w6l5264/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
