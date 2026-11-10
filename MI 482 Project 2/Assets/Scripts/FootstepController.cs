@@ -16,7 +16,7 @@ public class FootstepController : MonoBehaviour
     void Update()
     {
         Vector3 playerVelocity = new Vector3(playerController.velocity.x, 0 , playerController.velocity.z);
-        Debug.Log("Magnitude: "+ playerVelocity.magnitude);
+      
         if (timer > 0) 
         { 
             timer -= Time.deltaTime;
