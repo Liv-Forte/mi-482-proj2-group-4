@@ -22,7 +22,7 @@ public class FootstepController : MonoBehaviour
             timer -= Time.deltaTime;
         }
 
-        if (playerVelocity.magnitude > 2 && timer <= 0) 
+        if (playerVelocity.magnitude > 2.3 && timer <= 0) 
         {
             rng = Random.Range(0, footstepSound.Length);
             footstepSound[rng].Play();
