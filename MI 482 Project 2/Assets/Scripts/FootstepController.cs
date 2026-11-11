@@ -16,13 +16,13 @@ public class FootstepController : MonoBehaviour
     void Update()
     {
         Vector3 playerVelocity = new Vector3(playerController.velocity.x, 0 , playerController.velocity.z);
-        Debug.Log("Magnitude: "+ playerVelocity.magnitude);
+      
         if (timer > 0) 
         { 
             timer -= Time.deltaTime;
         }
 
-        if (playerVelocity.magnitude > 2 && timer <= 0) 
+        if (playerVelocity.magnitude > 2.3 && timer <= 0) 
         {
             rng = Random.Range(0, footstepSound.Length);
             footstepSound[rng].Play();
