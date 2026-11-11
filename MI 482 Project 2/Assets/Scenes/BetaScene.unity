@@ -5237,7 +5237,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 327711172966130560, guid: 589dc20c321092e40974ac0213824ad3, type: 3}
       propertyPath: m_text
-      value: In cave diving you will need to navigate through dark and cramped spaces.
+      value: In caving you will need to navigate through dark and cramped spaces.
         Make it to the end of this hallway to continue.
       objectReference: {fileID: 0}
     - target: {fileID: 738209971599768553, guid: 589dc20c321092e40974ac0213824ad3, type: 3}
