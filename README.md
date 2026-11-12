@@ -1,14 +1,14 @@
-# MI 482 Fall 2026 **Replace this Project Name** - ReadMe File
+# MI 482 Fall 2026 **Caving Simulator** - ReadMe File
 
-#### Author: *Replace this with your name*
+#### Author: *Alexia Crispin, Olivia Forte, Pierson Wells, and Brandon Hess*
 
-##### Modified: *2026-09-01*
+##### Modified: *2026-11-11*
 
 
 **1. What are the controls to your project? How do we play?**   
 
 > &nbsp;
-><i>(for projects, list all controls. for tutorials, just list any added controls for enhancements)</i>   
+><i>You walk around the cave with the left joystick. Grab any interactables with the grip triggers on either hand.</i>   
 > &nbsp;
  
 
@@ -24,7 +24,8 @@
 **3. Are there any assets used that you didn't create yourself?**   
 
 > &nbsp;
-><i>(art, music, etc. Just tell us where you got it, link it here)</i>   
+><i>Flashlight: https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972</i>  
+><i>Helmet: https://assetstore.unity.com/packages/3d/props/clothing/accessories/scooter-helmet-285857</i> 
 > &nbsp;
  
 
@@ -48,7 +49,7 @@
 **6. Did you get help from any online websites, videos, or tutorials?**   
 
 > &nbsp;
-><i>(link them here)</i>   
+><i>To learn how to get the flashlight to turn off when getting on the toolbelt: https://www.youtube.com/watch?v=VVIwVUmvjHM</i>   
 > &nbsp;
  
 
