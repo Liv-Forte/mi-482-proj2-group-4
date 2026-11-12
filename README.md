@@ -8,7 +8,7 @@
 **1. What are the controls to your project? How do we play?**   
 
 > &nbsp;
-><i>You walk around the cave with the left joystick. Grab any interactables with the grip triggers on either hand.</i>   
+><i>You walk around the cave with the left joystick. Grab any interactables with the grip triggers on either hand. You can also draw on the map with the trigger buttons.</i>   
 > &nbsp;
  
 
@@ -49,7 +49,11 @@
 **6. Did you get help from any online websites, videos, or tutorials?**   
 
 > &nbsp;
-><i>To learn how to get the flashlight to turn off when getting on the toolbelt: https://www.youtube.com/watch?v=VVIwVUmvjHM</i>   
+><i>To learn how to get the flashlight to turn off when getting on the toolbelt: https://www.youtube.com/watch?v=VVIwVUmvjHM</i> 
+><i>Reference for drawing on map: https://www.youtube.com/watch?v=VVIwVUmvjHM</i> 
+><i>Reference for drawing on map: https://youtu.be/sVFRzxD9wBQ</i>
+><i>Reference for inventory: https://youtu.be/rZs3zlJuQB8</i>
+><i>Reference for inventory: https://youtu.be/Xc5sx32cT1Q</i>
 > &nbsp;
  
 
@@ -57,7 +61,8 @@
 **7. What trouble did you have with this project?**   
 
 > &nbsp;
-><i>(Even if you didn't complete the project, you can still get partial credit if you tell us about why it's incomplete.)</i>   
+><i>(Even if you didn't complete the project, you can still get partial credit if you tell us about why it's incomplete.)</i> 
+><i>We ran out of time to implement some features that we wanted to, as we discussed in our presentation</i>
 > &nbsp;
  
 
